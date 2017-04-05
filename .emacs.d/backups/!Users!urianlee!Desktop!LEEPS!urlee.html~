@@ -1,0 +1,13 @@
+<html>
+<head>
+    <style>body {padding: 10; margin: 10;} </style>
+</head>
+<body>
+  <canvas id="watermelon" width='600' height='500'></canvas>
+  <div class="slider">
+    <input type="range" min="0" max="1" value="0.5" id="fader" step="0.01" oninput="outputUpdate(value)">
+    <output for="fader" id="volume">0.5</output>
+  </div>
+  <script src="urlee.js"></script>
+</body>
+</html>

@@ -1,0 +1,617 @@
+Creature
+Variants
+Troll
+Four-Armed Troll
+Ambush Drake
+Azbara Jos
+Blagothkus
+Captain Othelstan
+Dragonclaw
+Dragonwing
+Dralmorrer Borngray
+Frulam Mondath
+Guard Drake
+Jamna Gleamsilver
+Langdedrosa Cyanwrath
+Pharblex Spattergoo
+Rath Modar
+Rezmir
+Talis the White
+Acolyte
+Adult Blue Dragon
+Adult White Dragon
+Air Elemental
+Assassin
+Bandit
+Berserker
+Bullywug
+Commoner
+Crocodile
+Cultist
+Deer
+Doppelganger
+Elk
+Ettercap
+Gargoyle
+Giant Centipede
+Giant Frog
+Giant Lizard
+Giant Spider
+Gray Ooze
+Griffon
+Guard
+Helmed Horror
+Hobgoblin
+Hobgoblin Captain
+Knight
+Kobold
+Lizardfolk
+Mage
+Noble
+Ogre
+Orc
+Otyugh
+Peryton
+Priest
+Roper
+Rug of Smothering
+Scout
+Shambling Mound
+Specter
+Spy
+Stirge
+Stone Giant
+Stone Golem
+Swarm of Insects
+Swarm of Centipedes
+Swarm of Rats
+Troglodyte
+Vampire
+Vampire Spawn
+Veteran
+Violet Fungus
+Will-o'-Wisp
+Winged Kobold
+Wyvern
+Yuan-ti
+Yuan-ti Malison, Yuan-ti Pureblood
+
+Creature
+Description
+Aarakocra
+Type: Humanoid
+Aboleth
+Type: Aberration
+Angels
+Type: Celestial
+Animated Objects
+Type: Construct
+Ankheg
+Type: Monstrosity
+Azer
+Type: Elemental
+Banshee
+Type: Undead
+Basilisk
+Type: Monstrosity
+Behir
+Type: Monstrosity
+Beholders
+Type: Aberration
+Blights
+Type: Plant
+Bugbears
+Type: Humanoid (Goblinoid)
+Bulette
+Type: Monstrosity
+Bullywug
+Type: Humanoid
+Cambion
+Type: Fiend
+Carrion Crawler
+Type: Monstrosity
+Centaur
+Type: Monstrosity
+Chimera
+Type: Monstrosity
+Chuul
+Type: Aberration
+Cloaker
+Type: Aberration
+Cockatrice
+Type: Monstrosity
+Couatl
+Type: Celestial
+Crawling Claw
+Type: Undead
+Cyclops
+Type: Giant
+Darkmantle
+Type: Monstrosity
+Death Knight
+Type: Undead
+Demilich
+Type: Undead
+Demons
+Type: Fiend (Demon)
+Devils
+Type: Fiend (Devil)
+Dinosaurs
+Type: Beast
+Displacer Beast
+Type: Monstrosity
+Doppelganger
+Type: Monstrosity
+Dracolich
+Type: Undead
+Dragon, Shadow
+Type: Dragon
+Dragons
+Type: Dragon
+Dragon Turtle
+Type: Dragon
+Drider
+Type: Monstrosity
+Dryad
+Type: Fey
+Duergar
+Type: Humanoid
+Elementals
+Type: Elemental
+Elves: Drow
+Type: Humanoid (Elf)
+Empyrean
+Type: Celestial
+Ettercap
+Type: Monstrosity
+Ettin
+Type: Giant
+Faerie Dragon
+Type: Dragon
+Flameskull
+Type: Undead
+Flumph
+Type: Aberration
+Fomorian
+Type: Giant
+Fungi
+Type: Plant
+Galeb Duhr
+Type: Elemental
+Gargoyle
+Type: Elemental
+Genies
+Type: Elemental
+Ghost
+Type: Undead
+Ghouls
+Type: Undead
+Giants
+Type: Giant
+Gibbering Mouther
+Type: Aberration
+Gith
+Type: Humanoid (Gith)
+Gnolls
+Type: Humanoid (Gnoll)
+Gnome, Deep (Svirfneblin)
+Type: Humanoid (Gnome)
+Goblins
+Type: Humanoid (Goblin)
+Golems
+Type: Construct
+Gorgon
+Type: Monstrosity
+Grell
+Type: Aberration
+Grick
+Type: Monstrosity
+Griffon
+Type: Monstrosity
+Grimlock
+Type: Humanoid (Grimlock)
+Hags
+Type: Fey
+Half-Dragon
+Type: Humanoid
+Harpy
+Type: Monstrosity
+Hell Hound
+Type: Fiend
+Helmed Horror
+Type: Construct
+Hippogriff
+Type: Monstrosity
+Hobgoblin
+Type: Humanoid (Goblin)
+Homunculus
+Type: Construct
+Hook Horror
+Type: Monstrosity
+Hydra
+Type: Monstrosity
+Intellect Devourer
+Type: Aberration
+Invisible Stalker
+Type: Elemental
+Jackalwere
+Type: Humanoid
+Kenku
+Type: Humanoid
+Kobold
+Type: Humanoid (Kobold)
+Kraken
+Type: Monstrosity
+Kuo-toa
+Type: Humanoid (Kuo-toa)
+Lamia
+Type: Monstrosity
+Lich
+Type: Undead
+Lizardfolk
+Type: Humanoid (Lizardfolk)
+Lycanthropes
+Type: Humanoid (Shapechanger)
+Magmin
+Type: Elemental
+Manticore
+Type: Monstrosity
+Medusa
+Type: Monstrosity
+Mephits
+Type: Elemental
+Merfolk
+Type: Humanoid (Merfolk)
+Merrow
+Type: Monstrosity
+Mimic
+Type: Monstrosity
+Mind Flayer
+Type: Aberration
+Minotaur
+Type: Monstrosity
+Modrons
+Type: Construct
+Mummies
+Type: Undead
+Myconids
+Type: Plant
+Nagas
+Type: Monstrosity
+Nightmare
+Type: Fiend
+Nothic
+Type: Aberration
+Ogre
+Type: Giant
+Oni
+Type: Giant
+Oozes
+Type: Ooze
+Orcs
+Type: Humanoid (Orc)
+Otyugh
+Type: Aberration
+Owlbear
+Type: Monstrosity
+Pegasus
+Type: Celestial
+Peryton
+Type: Monstrosity
+Piercer
+Type: Monstrosity
+Pixie
+Type: Fey
+Pseudodragon
+Type: Dragon
+Purple Worm
+Type: Monstrosity
+Quaggoth
+Type: Humanoid
+Rakshasa
+Type: Fiend
+Remorhaz
+Type: Monstrosity
+Revenant
+Type: Undead
+Roc
+Type: Monstrosity
+Roper
+Type: Monstrosity
+Rust Monster
+Type: Monstrosity
+Sahuagin
+Type: Humanoid (Sahuagin)
+Salamanders
+Type: Elemental
+Satyr
+Type: Fey
+Scarecrow
+Type: Construct
+Shadow
+Type: Undead
+Shambling Mound
+Type: Plant
+Shield Guardian
+Type: Construct
+Skeletons
+Type: Undead
+Slaadi
+Type: Aberration
+Specter
+Type: Undead
+Sphinxes
+Type: Monstrosity
+Sprite
+Type: Fey
+Stirge
+Type: Beast
+Succubus/Incubus
+Type: Fiend
+Tarrasque
+Type: Monstrosity
+Thri-Kreen
+Type: Humanoid (Thri-Kreen)
+Treant
+Type: Plant
+Troglodyte
+Type: Humanoid (Troglodyte)
+Troll
+Type: Giant
+Umber Hulk
+Type: Monstrosity
+Unicorn
+Type: Celestial
+Vampires
+Type: Undead
+Water Weird
+Type: Elemental
+Wight
+Type: Undead
+Will-o'-Wisp
+Type: Undead
+Wraith
+Type: Undead
+Wyvern
+Type: Dragon
+Xorn
+Type: Elemental
+Yeti
+Type: Monstrosity
+Yuan-ti
+Type: Monstrosity, Humanoid
+Yugoloths
+Type: Fiend (Yugoloth)
+Zombies
+Type: Undead
+Ape
+Type: Beast
+Awakened Shrub
+Type: Plant
+Awakened Tree
+Type: Plant
+Axe Beak
+Type: Beast
+Baboon
+Type: Beast
+Badger
+Type: Beast
+Bat
+Type: Beast
+Black Bear
+Type: Beast
+Blink Dog
+Type: Fey
+Blood Hawk
+Type: Beast
+Boar
+Type: Beast
+Brown Bear
+Type: Beast
+Camel
+Type: Beast
+Cat
+Type: Beast
+Constrictor Snake
+Type: Beast
+Crab
+Type: Beast
+Crocodile
+Type: Beast
+Death Dog
+Type: Monstrosity
+Deer
+Type: Beast
+Dire Wolf
+Type: Beast
+Draft Horse
+Type: Beast
+Eagle
+Type: Beast
+Elephant
+Type: Beast
+Elk
+Type: Beast
+Flying Snake
+Type: Beast
+Frog
+Type: Beast
+Giant Ape
+Type: Beast
+Giant Badger
+Type: Beast
+Giant Bat
+Type: Beast
+Giant Boar
+Type: Beast
+Giant Centipede
+Type: Beast
+Giant Constrictor Snake
+Type: Beast
+Giant Crab
+Type: Beast
+Giant Crocodile
+Type: Beast
+Giant Eagle
+Type: Beast
+Giant Elk
+Type: Beast
+Giant Fire Beetle
+Type: Beast
+Giant Frog
+Type: Beast
+Giant Goat
+Type: Beast
+Giant Hyena
+Type: Beast
+Giant Lizard
+Type: Beast
+Giant Octopus
+Type: Beast
+Giant Owl
+Type: Beast
+Giant Poisonous Snake
+Type: Beast
+Giant Rat
+Type: Beast
+Giant Scorpion
+Type: Beast
+Giant Sea Horse
+Type: Beast
+Giant Shark
+Type: Beast
+Giant Spider
+Type: Beast
+Giant Toad
+Type: Beast
+Giant Vulture
+Type: Beast
+Giant Wasp
+Type: Beast
+Giant Weasel
+Type: Beast
+Giant Wolf Spider
+Type: Beast
+Goat
+Type: Beast
+Hawk
+Type: Beast
+Hunter Shark
+Type: Beast
+Hyena
+Type: Beast
+Jackal
+Type: Beast
+Killer Whale
+Type: Beast
+Lion
+Type: Beast
+Lizard
+Type: Beast
+Mammoth
+Type: Beast
+Mastiff
+Type: Beast
+Mule
+Type: Beast
+Octopus
+Type: Beast
+Owl
+Type: Beast
+Panther
+Type: Beast
+Phase Spider
+Type: Monstrosity
+Poisonous Snake
+Type: Beast
+Polar Bear
+Type: Beast
+Pony
+Type: Beast
+Quipper
+Type: Beast
+Rat
+Type: Beast
+Raven
+Type: Beast
+Reef Shark
+Type: Beast
+Rhinoceros
+Type: Beast
+Riding Horse
+Type: Beast
+Saber-Toothed Tiger
+Type: Beast
+Scorpion
+Type: Beast
+Sea Horse
+Type: Beast
+Spider
+Type: Beast
+Swarm of Bats
+Type: Beast
+Swarm of Insects
+Type: Beast
+Swarm of Poisonous Snakes
+Type: Beast
+Swarm of Quippers
+Type: Beast
+Swarm of Rats
+Type: Beast
+Swarm of Ravens
+Type: Beast
+Tiger
+Type: Beast
+Vulture
+Type: Beast
+Warhorse
+Type: Beast
+Weasel
+Type: Beast
+Winter Wolf
+Type: Monstrosity
+Wolf
+Type: Beast
+Worg
+Type: Monstrosity
+Acolyte
+Type: Humanoid
+Archmage
+Type: Humanoid
+Assassin
+Type: Humanoid
+Bandit
+Type: Humanoid
+Bandit Captain
+Type: Humanoid
+Berserker
+Type: Humanoid
+Commoner
+Type: Humanoid
+Cultist
+Type: Humanoid
+Cult Fanatic
+Type: Humanoid
+Druid
+Type: Humanoid
+Gladiator
+Type: Humanoid
+Guard
+Type: Humanoid
+Knight
+Type: Humanoid
+Mage
+Type: Humanoid
+Noble
+Type: Humanoid
+Priest
+Type: Humanoid
+Scout
+Type: Humanoid
+Spy
+Type: Humanoid
+Thug
+Type: Humanoid
+Tribal Warrior
+Type: Humanoid
+Veteran

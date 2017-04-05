@@ -1,0 +1,46 @@
+// Canvas - Centered
+var canvas = document.getElementById("watermelon");
+var style = canvas.style;
+style.marginLeft = "auto";
+style.marginRight = "auto";
+var parentStyle = canvas.parentElement.style;
+parentStyle.textAlign = "center";
+parentStyle.width = "100%";
+var context = canvas.getContext('2d');
+
+// Global Variables
+var timer = 0;
+var rand_num = 0;
+
+
+// PROFIT = (1 - (USER_VALUE - RAND_NUM)^2)
+function payoff(u, r) {
+    var p = u - r;
+    p = Math.pow(p, 2);
+    p = 1 - p;
+    return p;
+}
+
+function update(){
+    rand_num = Math.random();
+}
+
+function draw(){
+    canvas.width = canvas.width;
+    // Off White Background
+    context.fillStyle = "#faebd7";
+    context.fillRect(0,0, canvas.width, canvas.height);
+    // Black Text
+    context.fillStyle = "black";
+    context.font = '12px helvetica, sans-serif';
+    context.fillText('Random Number: ' + rand_num, 10, 20);
+    
+}
+
+function game_loop() {
+    timer++;
+    update();
+    draw();
+}
+
+setInterval(game_loop, 1); 

@@ -1,0 +1,163 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/urianlee/Desktop/146final/" . "CMPM-146-Project-Campaign-Generator/")
+ ("/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/" . "js/")
+ ("/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/js/" . "tracery/")
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/" . "particle/")
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/aof/" . "boids/")
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/" . "js/")
+ ("/Users/urianlee/.emacs.d/" . "auto-save-list/")
+ ("/Users/" . "urianlee/")
+ ("/Users/urianlee/" . "Desktop/")
+ ("/Users/urianlee/Desktop/146-p2-master/" . "src/")
+ ("/Users/urianlee/Desktop/P5/" . "src/")
+ ("/Users/urianlee/Desktop/146p4-master/src/" . "behavior_tree_bot/")
+ ("/Users/urianlee/Desktop/146p4-master/" . "src/")
+ ("/Users/urianlee/Desktop/P4/src/behavior_tree_bot/" . "__pycache__/")
+ ("/Users/urianlee/Desktop/P4/" . "src/")
+ ("/Users/urianlee/Desktop/P4/src/" . "behavior_tree_bot/")
+ ("/Users/urianlee/Desktop/P3/src/" . "__pycache__/")
+ ("/Users/urianlee/Desktop/" . "146-p2-master/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/js/"
+ "/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/"
+ "/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/"
+ "/Users/urianlee/Desktop/"
+ "/Users/urianlee/Desktop/LEEPS/"
+ "/Users/urianlee/Desktop/ghosts-audio/"
+ "/Users/urianlee/Desktop/P6-Ed-patch-1/"
+ "/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/particle/"
+ "/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/aof/boids/"
+ "/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/aof/"
+ "/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/"
+ "/Users/urianlee/Desktop/P6/src/js/aof/boids/"
+ "/Users/urianlee/Desktop/P6/src/js/aof/"
+ "/Users/urianlee/Desktop/P5/src/"
+ "/Users/urianlee/Desktop/146-p2-master/src/"
+ "/Users/urianlee/.emacs.d/"
+ "/Users/urianlee/Desktop/P4/src/behavior_tree_bot/"
+ "/Users/urianlee/Desktop/146p4-master/src/behavior_tree_bot/"
+ "/Users/urianlee/Desktop/gen-art-studio/"
+ "/Users/urianlee/Desktop/P4/src/opponent_bots/"
+ "/Users/urianlee/Desktop/P4/src/behavior_tree_bot/__pycache__/"
+ "/Users/urianlee/Desktop/P4/src/"
+ "/Users/urianlee/Desktop/P4/src/maps/"
+ "/Users/urianlee/Desktop/P3/src/"
+ "/Users/urianlee/Desktop/P2/src/"
+ "/Users/urianlee/Desktop/P2/src/P1 Solution/"
+ "/Users/urianlee/Desktop/CMPM-146/"
+ "/Users/urianlee/Desktop/p5/empty-example/"
+ "/Users/urianlee/Desktop/gen-art/"
+ "/Users/urianlee/Desktop/CMPM 146 - P1/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "grammars.js"
+ "dnd_creature_list"
+ "event_crafting.yaml"
+ "campaign_crafter.py"
+ "events.yaml"
+ "app.js"
+ "index.html"
+ "urlee.js"
+ "urlee.html"
+ "urlee.css"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/" (22599 40859 0 0) "tracery/" "pa5/" "events.yaml" "event_crafting.yaml" "dnd_creature_list" "campaign_crafter.py" ".gitignore" ".git/" "#dnd_creature_list#" "../" "./")
+
+ ("/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/js/" (22599 12311 0 0) "vendor/" "tracery.min.js" "tracery/" "grammars.js" "app.js" ".#grammars.js" "#grammars.js#" "../" "./")
+
+ ("/Users/urianlee/Desktop/146final/" (22573 34490 0 0) "CMPM-146-Project-Campaign-Generator/" ".git/" "../" "./")
+
+ ("/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/js/tracery/" (22105 64036 0 0) "utilities.js" "traceryCore.js" "symbol.js" "rule/" "node.js" "modifiers.js" "main.js" "inheritance.js" "grammar.js" "almond.js" "action.js" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/146final/CMPM-146-Project-Campaign-Generator/tracery/" (22598 40627 0 0) "tracery.js" "readme.md" "LICENSE.MD" "js/" "index.html" "css/" ".project" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/" (22592 31499 0 0) "Nuclear-Throne.mp4.reapeaks" "Nuclear-Throne.mp4" "musicforairports.js-master/" "LEEPS/" "itsgonnarain.js-master/" "googleFinalVersionFixed.pdf" "ghosts-audio/" "dnd_creature_list" "146final/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/LEEPS/" (22590 42874 0 0) "urlee.js" "urlee.html" "urlee.css" "../" "./")
+
+ ("/Users/urianlee/.emacs.d/" (22590 8919 0 0) "snippets/" "places" "init.el~" "init.el" "ido.last" "elpa/" "backups/" "avk-daylight-theme.el" "auto-save-list/" "../" "./")
+
+ ("/Users/urianlee/Desktop/ghosts-audio/" (22588 288 0 0) "sounds/" "sound.js" "myScript.js" "index.html" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/" (22561 11229 0 0) "src/" "README.md" "P6 Evo-Boids.docx" ".git/" "#README.md#" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/aof/" (22561 34947 0 0) "population.js" "individual.js" "evo-panel.js" "environment.js" "dna-panel.js" "boids/" "aof.js" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/particle/" (22560 28012 0 0) "particle.js" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/aof/boids/" (22561 34481 0 0) "flock.js" "boid.js" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/" (22561 11967 0 0) "js/" "index.html" "img/" "css/" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6-Ed-patch-1/src/js/" (22561 11891 0 0) "view/" "vendor/" "particle/" "common.js" "app.js" "aof/" "_DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6/src/js/aof/" (22560 61849 0 0) "population.js" "individual.js" "evo-panel.js" "environment.js" "dna-panel.js" "boids/" "aof.js" "#evo-panel.js#" "../" "./")
+
+ ("/Users/urianlee/Desktop/P6/src/js/aof/boids/" (22558 56846 0 0) "flock.js" "boid.js" "../" "./")
+
+ ("/Users/urianlee/Desktop/P5/src/" (22554 53923 0 0) "crafting.json" "craft_planner.py" ".#crafting.json" "#crafting.json#" "../" "./")
+
+ ("/Users/urianlee/Desktop/146-p2-master/src/" (22554 38544 0 0) "p2_pathfinder.py" "p2_meshbuilder.py" "p2_interactive.py" "P1 Solution/" "__pycache__/" ".#p2_pathfinder.py" "#p2_pathfinder.py#" "#p2_meshbuilder.py#" "../" "./")
+
+ ("/Users/urianlee/Desktop/P5/" (22554 49107 0 0) "src/" "README.txt" "P5-Minecraft Planner.docx" ".git/" "../" "./")
+
+ ("/Users/urianlee/.emacs.d/auto-save-list/" (22554 12030 0 0) ".saves-4680-porter-kresge-apts-57-96.resnet.ucsc.edu~" ".saves-1229-eduroam-169-233-225-109.ucsc.edu~" ".saves-10520-eduroam-169-233-248-94.ucsc.edu~" "../" "./")
+
+ ("/Users/urianlee/" (22554 9534 0 0) "Seagate File Recovery/" "Public/" "Pictures/" "PCSX2/" "Music/" "Movies/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Creative Cloud Files/" "Applications/" ".Xauthority" ".x2goclient/" ".wine/" ".wapi/" ".viminfo" ".Trash/" ".thumbnails/" ".subversion/" ".ssh/" ".spyder2-py3/" ".rnd" ".python_history" ".oracle_jre_usage/" ".mplabcomm/" ".mono/" ".matplotlib/" ".local/" ".ipython/" ".inkscape-etc/" ".hammerspoon/" ".gnome2/" ".gitconfig" ".fontconfig/" ".emacs.d/" ".emacs" ".DS_Store" ".dropbox/" ".cups/" ".continuum/" ".config/" ".condamanager/" ".CFUserTextEncoding" ".cache/" ".bashrc" ".bash_sessions/" ".bash_profile.pysave" ".bash_profile.macports-saved_2016-06-16_at_11:41:47" ".bash_profile.macports-saved_2016-01-07_at_19:14:03" ".bash_profile-anaconda.bak" ".bash_profile" ".bash_history" ".atom/" ".anaconda/" ".adobe/" "../" "./")
+
+ ("/Users/urianlee/Desktop/146-p2-master/" (22523 61020 0 0) "src/" "README.md" "P2_Navmesh Pathfinding.docx" "input/" "../" "./")
+
+ ("/Users/urianlee/Desktop/P4/src/behavior_tree_bot/" (22545 42525 0 0) "checks.py" "bt_nodes.py" "bt_bot.py" "bt_bot.log" "behaviors.py" "__pycache__/" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/P4/src/behavior_tree_bot/__pycache__/" (22545 41590 0 0) "checks.cpython-35.pyc" "bt_nodes.cpython-35.pyc" "behaviors.cpython-35.pyc" "../" "./")
+
+ ("/Users/urianlee/Desktop/gen-art-studio/" (22545 34005 0 0) "sketch.js" "libraries/" "index.html" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/146p4-master/src/behavior_tree_bot/" (22541 46676 0 0) "checks.py" "bt_nodes.py" "bt_bot.py" "bt_bot.log" "behaviors.py" "__pycache__/" "../" "./")
+
+ ("/Users/urianlee/Desktop/146p4-master/src/" (22541 46676 0 0) "tools/" "run.py" "planet_wars.py" "opponent_bots/" "maps/" "log.txt" "behavior_tree_bot/" "__pycache__/" "../" "./")
+
+ ("/Users/urianlee/Desktop/146p4-master/" (22541 46676 0 0) "src/" "P4_ BTs for Planet Wars.docx" "../" "./")
+
+ ("/Users/urianlee/Desktop/P4/" (22538 3172 0 0) "src/" "P4_ BTs for Planet Wars.docx" ".git/" "../" "./")
+
+ ("/Users/urianlee/Desktop/P4/src/" (22541 43361 0 0) "tools/" "run.py" "planet_wars.py" "opponent_bots/" "maps/" "log.txt" "behavior_tree_bot/" "__pycache__/" ".git/" "../" "./")
+
+ ("/Users/urianlee/Desktop/P4/src/maps/" (22537 16359 0 0) "map99.txt" "map98.txt" "map97.txt" "map96.txt" "map95.txt" "map94.txt" "map93.txt" "map92.txt" "map91.txt" "map90.txt" "map9.txt" "map89.txt" "map88.txt" "map87.txt" "map86.txt" "map85.txt" "map84.txt" "map83.txt" "map82.txt" "map81.txt" "map80.txt" "map8.txt" "map79.txt" "map78.txt" "map77.txt" "map76.txt" "map75.txt" "map74.txt" "map73.txt" "map72.txt" "map71.txt" "map70.txt" "map7.txt" "map69.txt" "map68.txt" "map67.txt" "map66.txt" "map65.txt" "map64.txt" "map63.txt" "map62.txt" "map61.txt" "map60.txt" "map6.txt" "map59.txt" "map58.txt" "map57.txt" "map56.txt" "map55.txt" "map54.txt" "map53.txt" "map52.txt" "map51.txt" "map50.txt" "map5.txt" "map49.txt" "map48.txt" "map47.txt" "map46.txt" "map45.txt" "map44.txt" "map43.txt" "map42.txt" "map41.txt" "map40.txt" "map4.txt" "map39.txt" "map38.txt" "map37.txt" "map36.txt" "map35.txt" "map34.txt" "map33.txt" "map32.txt" "map31.txt" "map30.txt" "map3.txt" "map29.txt" "map28.txt" "map27.txt" "map26.txt" "map25.txt" "map24.txt" "map23.txt" "map22.txt" "map21.txt" "map20.txt" "map2.txt" "map19.txt" "map18.txt" "map17.txt" "map16.txt" "map15.txt" "map14.txt" "map13.txt" "map12.txt" "map11.txt" "map100.txt" "map10.txt" "map1.txt" "../" "./")
+
+ ("/Users/urianlee/Desktop/P4/src/opponent_bots/" (22538 4169 0 0) "spread_bot.py" "spread_bot.log" "production_bot.py" "production_bot.log" "easy_bot.py" "easy_bot.log" "do_nothing_bot.py" "defensive_bot.py" "defensive_bot.log" "aggressive_bot.py" "aggressive_bot.log" "../" "./")
+
+ ("/Users/urianlee/Desktop/P3/src/" (22532 29963 0 0) "rollout_bot.py" "random_bot.py" "plot.png" "p3_sim.py" "p3_gui.py" "p3_game.py" "mcts_vanilla.py" "mcts_node.py" "mcts_modified.py" "experiment2.txt" "experiment1.txt" "__pycache__/" "#p3_game.py#" "#mcts_node.py#" "#mcts_modified.py#" "../" "./")
+
+ ("/Users/urianlee/Desktop/P3/src/__pycache__/" (22525 56037 0 0) "rollout_bot.cpython-35.pyc" "random_bot.cpython-35.pyc" "p3_game.cpython-35.pyc" "../" "./")
+
+ ("/Users/urianlee/Desktop/P2/src/" (22517 35603 0 0) "p2_pathfinder.py" "p2_meshbuilder.py" "p2_interactive.py" "P1 Solution/" ".#p2_meshbuilder.py" "#p2_pathfinder.py#" "#p2_meshbuilder.py#" "../" "./")
+
+ ("/Users/urianlee/Desktop/P2/src/P1 Solution/" (22515 19216 0 0) "p1.py" "../" "./")
+
+ ("/Users/urianlee/Desktop/CMPM-146/" (22513 36339 0 0) "test_maze_path.txt" "test_maze.txt" "p1_support.pyc" "p1_support.py" "P1_ Dijkstra’s in a Dungeon.docx" "p1.py" "my_maze_costs.csv" "my_maze.txt" "my_costs.csv" "example_costs.csv" "example_costs(1).csv" "example_a_to_e.txt" "example.txt" "__pycache__/" ".git/" ".DS_Store" "#p1_support.py#" "../" "./")
+
+ ("/Users/urianlee/Desktop/p5/empty-example/libraries/" (22512 34873 0 0) "unhappy.jpeg" "p5.sound.js" "p5.scribble.js" "p5.js" "p5.gif.min.js" "p5.gif.js" "p5.dom.js" "happy.jpeg" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/p5/empty-example/" (22512 36438 0 0) "sketch.js" "libraries/" "index.html" ".DS_Store" "../" "./")
+
+ ("/Users/urianlee/Desktop/gen-art/" (22512 30639 0 0) "index.html" "../" "./")
+
+ ("/Users/" (22036 10079 0 0) "urianlee/" "Shared/" "Guest/" ".localized" "../" "./")
+
+ ("/Users/urianlee/Desktop/CMPM 146 - P1/" (22507 44645 0 0) "test_maze.txt" "p1_support.py" "P1_ Dijkstra’s in a Dungeon.docx" "p1.py" "example_costs.csv" "example_costs(1).csv" "example_a_to_e.txt" "example.txt" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

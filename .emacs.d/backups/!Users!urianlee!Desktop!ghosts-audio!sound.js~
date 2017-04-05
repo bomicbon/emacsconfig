@@ -1,0 +1,5 @@
+// Create the audio context
+var audioContext = new AudioContext();
+
+// If you're using Safari
+var audioContext = new webkitAudioContext();

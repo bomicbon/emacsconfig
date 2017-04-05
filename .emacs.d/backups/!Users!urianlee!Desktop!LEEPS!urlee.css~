@@ -1,0 +1,11 @@
+.slider{
+    position: relative;
+}
+
+output{
+    position:absolute;
+    left:50px;
+    padding: .5em;
+    background:black;
+    color:white;
+}

@@ -1,0 +1,7 @@
+Analysis of Experiment 1 - Tree Sizes
+
+         We tested each tree size for 125 rounds.
+         Tree sizes were tested as follows: (200 (nodes), 300, 400, 500)
+         Generally, the more nodes a tree has, the higher chance it has of winning.
+         
+
