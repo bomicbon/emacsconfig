@@ -1,0 +1,55 @@
+# My first .gitignore
+
+# Directories ignored
+Applications/
+Desktop/
+Downloads/
+Gobbler/
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Seagate File Recovery/
+Sites/
+
+###################
+### Courtesy of ###
+##### OCTOCAT######
+# Compiled Source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+##################
+# it's better to unpack these files
+# and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+.ehthumbs.db
+Thumbs.db
